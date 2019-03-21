@@ -3,4 +3,5 @@
 -create app.yml file in src/main/appengine/app.yml specifying the service name and runtime configurations for app engine flex enviroment  
 -To run locally, Just run as spring boot App  
 -To deploy to google cloud - mvn clean package appengine:deploy  
--https://<service>-dot-<project-id>.appspot.com/translate/<text-to-translate>
+-https://<service>-dot-<project-id>.appspot.com/translate<text-to-translate>  
+  
